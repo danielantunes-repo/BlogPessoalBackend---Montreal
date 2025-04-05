@@ -1,5 +1,3 @@
-// src/test/java/montreal/daniel/blogpessoal/controller/UsuarioControllerIntegrationTest.java
-
 package montreal.daniel.blogpessoal.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
